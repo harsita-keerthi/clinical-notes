@@ -1,0 +1,29 @@
+Patient: John Doe
+Date: 2024-08-10
+Age: 45
+Chief Complaint: Shortness of breath, chest pain.
+
+Subjective:
+The patient is a 45-year-old male with a history of hypertension and hyperlipidemia. He presents to the clinic with a 3-day history of shortness of breath and intermittent chest pain. The chest pain is described as a pressure-like sensation located in the central chest, radiating to the left arm. The pain is exacerbated by physical exertion and relieved with rest. The patient denies any associated symptoms such as nausea, vomiting, or diaphoresis.
+
+Objective:
+
+Vital Signs: BP 150/95 mmHg, HR 85 bpm, RR 20/min, SpO2 98% on room air.
+Physical Exam:
+General: The patient appears anxious but in no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Lungs are clear to auscultation bilaterally. No wheezing, rales, or rhonchi.
+Abdomen: Soft, non-tender, non-distended. No organomegaly.
+Extremities: No edema. Peripheral pulses are intact.
+Assessment:
+
+Suspected stable angina.
+Hypertension, poorly controlled.
+Hyperlipidemia.
+Plan:
+
+Order ECG and cardiac enzymes to rule out myocardial infarction.
+Start the patient on aspirin 81 mg daily.
+Increase the dose of the patient’s current antihypertensive medication (Lisinopril).
+Schedule a follow-up appointment in 1 week.
+Educate the patient on lifestyle modifications including diet, exercise, and smoking cessation.

@@ -1,0 +1,27 @@
+Patient: Jane Smith
+Date: 2024-08-12
+Age: 29
+Chief Complaint: Persistent cough.
+
+Subjective:
+The patient is a 29-year-old female with no significant past medical history. She presents with a 2-week history of persistent dry cough. The patient reports that the cough is more pronounced at night and is sometimes accompanied by a sore throat. She denies fever, chills, chest pain, or shortness of breath. The patient works as a school teacher and reports that several of her students have had similar symptoms recently.
+
+Objective:
+
+Vital Signs: BP 120/80 mmHg, HR 70 bpm, RR 18/min, SpO2 99% on room air.
+Physical Exam:
+General: The patient is well-appearing and in no acute distress.
+ENT: Throat is slightly erythematous without exudates. No cervical lymphadenopathy.
+Respiratory: Lungs are clear to auscultation with no wheezing, rales, or rhonchi.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Abdomen: Soft, non-tender, non-distended.
+Assessment:
+
+Likely viral upper respiratory infection.
+Cough secondary to postnasal drip.
+Plan:
+
+Recommend supportive care including increased fluid intake, rest, and throat lozenges.
+Prescribe a short course of over-the-counter cough suppressants.
+Advise the patient to return if symptoms persist for more than 2 weeks or worsen.
+No need for antibiotics at this time as symptoms are consistent with a viral infection.

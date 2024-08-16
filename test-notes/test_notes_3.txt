@@ -1,0 +1,29 @@
+Patient: Michael Johnson
+Date: 2024-08-14
+Age: 65
+Chief Complaint: Follow-up visit for diabetes management.
+
+Subjective:
+The patient is a 65-year-old male with a known history of type 2 diabetes mellitus, hypertension, and obesity. He comes in for a follow-up visit to discuss his recent blood glucose readings and medication adherence. The patient reports that he has been taking his medications as prescribed but has noticed some episodes of dizziness, especially in the morning. He denies any symptoms of hypoglycemia such as sweating, palpitations, or confusion. His diet has been consistent, and he has been trying to walk for 30 minutes daily.
+
+Objective:
+
+Vital Signs: BP 140/85 mmHg, HR 78 bpm, RR 18/min, SpO2 97% on room air.
+Physical Exam:
+General: The patient is alert, oriented, and in no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs, rubs, or gallops.
+Respiratory: Lungs clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No edema. No signs of diabetic foot ulcers. Peripheral pulses are intact.
+Assessment:
+
+Type 2 diabetes mellitus, stable.
+Hypertension, controlled.
+Obesity.
+Plan:
+
+Continue current diabetic medications (Metformin, 1000 mg twice daily).
+Encourage continued lifestyle modifications including diet and exercise.
+Schedule a follow-up appointment in 3 months to check HbA1c levels.
+Recommend blood pressure monitoring at home due to reported dizziness.
+Consider adjusting antihypertensive medication if dizziness persists.
