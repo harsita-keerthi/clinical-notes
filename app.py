@@ -1,6 +1,11 @@
+# app.py - 
+# This file contains the front end/UI of the application 
+# Functions to upload files of clinical notes and view as summary
 
-import streamlit as st
-from summarizer import summarize_text
+
+
+import streamlit as st  # streamlit for web application
+from summarizer import summarize_text   # import summarize_text function from sumarizer.py
 
 # streamlit UI set up
 st.title("Clinical Notes Summarizer")
