@@ -1,21 +1,31 @@
-# summarizer.py - 
-# This file contains the NLP model to summarize clinical notes. 
-# It is imported to app.py for integration with frontend
 
 
-from transformers import pipeline   # import transformer from Hugging Face for NLP pipeline
+from transformers import pipeline
 
-# load summarization pipeline from import 
-summarizer = pipeline("summarization")
+# Attempt to load the summarization pipeline
+try:
+    summarizer = pipeline("summarization")
+except Exception as e:
+    raise RuntimeError(f"Failed to load the summarization model: {e}")
 
 def summarize_text(text):
-    # perform summarization 
-    # tune parameters to improve model performance
-    summary = summarizer(
-        text,   # txt files
-        max_length=500,     # max length of generated summary
-        min_length=100,     # min length of generated summary
-        do_sample=False,    
-        truncation=True     # if file size is too large, turncate values
-    )
-    return summary[0]['summary_text']
+    try:
+        if not isinstance(text, str):
+            raise ValueError("Input text must be a string.")
+        
+        # perform summarization
+        summary = summarizer(
+            text,  # txt files
+            max_length=500,  # max length of generated summary
+            min_length=100,  # min length of generated summary
+            do_sample=False,
+            truncation=True  # if file size is too large, truncate values
+        )
+        
+        return summary[0]['summary_text']
+    
+    except ValueError as e:
+        raise ValueError(f"Invalid input: {e}")
+    
+    except Exception as e:
+        raise RuntimeError(f"An unexpected error occurred during summarization: {e}")
